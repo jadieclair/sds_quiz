@@ -73,12 +73,6 @@ body {
   }
 }
 
-.quiz-section .active .main {
-  /* Apply the blur effect when the quiz section is active */
-  /* filter: blur(25px);
-  pointer-events: none; */
-}
-
 /* Container Styling */
 .container {
   display: flex;
@@ -227,6 +221,7 @@ body {
   z-index: 100;
   transition: 0.8s ease-in-out;
   transition-delay: 0.25s;
+  overflow-y: scroll;
 }
 
 .quiz-section.active {
