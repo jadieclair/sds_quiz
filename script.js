@@ -84,7 +84,7 @@ try {
           {
             numb: 7,
             question: "Who painted the Mona Lisa?",
-            answer: "B. Leonardo da Vinci;", // Correct Answer
+            answer: "B. Leonardo da Vinci", // Correct Answer
             options: [
               "A. Pablo Picasso",
               "B. Leonardo da Vinci",
